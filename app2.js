@@ -1,0 +1,1 @@
+let cocco = "Io sono un cocco";
